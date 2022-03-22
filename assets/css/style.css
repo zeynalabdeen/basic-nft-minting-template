@@ -77,7 +77,7 @@
     border: 1.5px solid rgba(255, 255, 255, 0.527);
     transition: 0.3s ease-in-out;
     opacity: 0;
-    animation: upper-circle 3s 0.2s infinite forwards ease;
+    animation: upper-circle 3s 0.3s infinite forwards ease;
 
 }
 @keyframes upper-circle {
